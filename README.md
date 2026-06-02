@@ -1,10 +1,10 @@
-##Sakura Ramen – Responsive Restaurant Website
+# Sakura Ramen – Responsive Restaurant Website
 
 Sakura Ramen is a modern restaurant landing page built with HTML and CSS. This project was my first fully responsive website and focused on creating clean layouts, structured page sections, and a visually appealing user experience across different screen sizes.
 
 The website was inspired by modern restaurant and food branding designs, with a strong focus on responsive frontend development and clean UI styling.
 
-##Features
+## Features
 Fully responsive design for desktop, tablet, and mobile devices
 Modern restaurant landing page layout
 Structured navigation and content sections
@@ -29,11 +29,11 @@ CSS organization and styling
 Building consistent and scalable page layouts
 Creating modern user interfaces without JavaScript
 
-##Live Demo
+## Live Demo
 
 https://marvin-mutwil.developerakademie.net/A-Developer-Akademie-Projekte/Sakura-Ramen-Webseite/Sakura-Ramen-Handy-Tablet-Abgabe.html
 
-##Preview
+## Preview
 
 <img width="811" height="1116" alt="sakuraRamen" src="https://github.com/user-attachments/assets/15d80601-5d58-411c-88d7-4eae6a12cc07" />
 
