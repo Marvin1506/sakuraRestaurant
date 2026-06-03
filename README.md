@@ -31,7 +31,7 @@ Creating modern user interfaces without JavaScript
 
 ## Live Demo
 
-https://marvin-mutwil.developerakademie.net/A-Developer-Akademie-Projekte/Sakura-Ramen-Webseite/Sakura-Ramen-Handy-Tablet-Abgabe.html
+https://marvin-mutwil.developerakademie.net/A-Developer-Akademie-Projekte/sakuraRestaurant/Sakura-Ramen-Webseite/Sakura-Ramen-Handy-Tablet-Abgabe.html
 
 ## Preview
 
